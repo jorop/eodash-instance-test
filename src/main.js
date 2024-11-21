@@ -46,7 +46,7 @@ export default createEodash({
           name: "EodashItemFilter",
           properties: {
             // enableCompare: true,
-            aggregateResults: "themes",
+            aggregateResults: "collection_group",
           },
         },
       },
